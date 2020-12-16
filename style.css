@@ -102,6 +102,6 @@ a:hover {color: #336699; text-decoration: underline;}
     transition: all 0.2s;
 }
 .my-button:hover {
-    background: #666;
-    color: #c1e1e0;
+    background: #333;
+    color: #FFFFFF;
 }
