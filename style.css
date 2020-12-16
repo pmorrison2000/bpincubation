@@ -91,10 +91,10 @@ a:hover {color: #336699; text-decoration: underline;}
     display: inline-block;
     margin: 30px; /* space between buttons */
     background: #2b873f; /* background color */
-    color: #333; /* text color */
+    color: #FFFFFF; /* text color */
     font-size: 1.5em;
     font-family: ‘Georgia’, serif;
-    font-style: italic;
+    font-style: bold;
     border-radius: 50px; /* rounded corners */
     padding: 8px 16px; /* space around text */
     -moz-transition: all 0.2s;
