@@ -86,3 +86,22 @@ a:hover {color: #336699; text-decoration: underline;}
 	border-radius: 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px;
 	box-shadow: #ccc 0 0 20px;
 }
+
+.my-button {
+    display: inline-block;
+    margin: 30px; /* space between buttons */
+    background: #2b873f; /* background color */
+    color: #333; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Georgia’, serif;
+    font-style: italic;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.my-button:hover {
+    background: #666;
+    color: #c1e1e0;
+}
