@@ -9,16 +9,16 @@ var q = [
 	'How will you make money?',
 	'How much money could you make per year?',
 	'How many users do you have?',
-	'What is your user growth rate?',
-	'How many users are paying?',
+	 
+	 
 	'How are you meeting customers?',
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
 	
 	'So what are you working on?',
-	'Do you have a demo?',
-	'Where is the rocket science here?',
+	 
+	 
 	'How does your product work in more detail?',
 	'How is your product different?',
 	'What are you going to do next?',
@@ -29,12 +29,12 @@ var q = [
 	'Why isn&#39;t someone already doing this?',
 	'What obstacles will you face and how will you overcome them?',
 	'How will customers and/or users find out about you?',
-	'What resistance will they have to trying you and how will you overcome it?',
+	'What resistance will customers have to trying you and how will you overcome it?',
 	'What are the key things about your field that outsiders don&#39;t understand?',
-	'What part of your project are you going to build first?',
+	 
 	'Who is going to be your first paying customer?',
 	'If your startup succeeds, what additional areas might you be able to expand into?',
-	'Why did you choose this idea?',
+	 
 	'What have you learned so far from working on your product?',
 	'Six months from now, what&#39;s going to be your biggest problem?',
 	'Where do new users come from?',
@@ -50,25 +50,25 @@ var q = [
 	'What domain expertise do you have?',
 	'Who are your competitors?',
 	'Who might become competitors?',
-	'Someone just showed us an idea like this right before you guys. I don&#39;t like it. What else do you have?',
+	 
 	'What competition do you fear most?',
 	'What is your distribution strategy?',
-	'How did your team meet?',
-	'Why did your team get together?',
-	'Who in your team does what?',
+	
+	
+	
 	
 	'What will you do if we don&#39;t fund you?',
 	
-	'How do we know your team will stick together?',
-	'What else have you created together?',
+	
+	 
 	'Are you open to changing your idea? ',
-	'What systems have you hacked?',
+	 
 	'Tell us about a tough problem you solved?',
 	'In what ways are you resourceful?',
 
 	
-	'Tell us something surprising you have done?',
-	'What&#39;s the funniest thing that has happened to you?',
+	 
+	 
 	'What&#39;s the worst thing that has happened?',
 	'What&#39;s the biggest mistake you have made?',
 	'What is your burn rate?',
@@ -78,7 +78,7 @@ var q = [
 	'Who would be your next hire?',
 	
 	'How do you know people want this?',
-	
+	'What will prevent others from becoming fast followers?'
 ];
 
 // Tips
