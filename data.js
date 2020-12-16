@@ -56,17 +56,17 @@ var q = [
 	'How did your team meet?',
 	'Why did your team get together?',
 	'Who in your team does what?',
-	'Who is &quot;the boss&quot;?',
+	
 	'What will you do if we don&#39;t fund you?',
-	'Would you relocate to Silicon Valley?',
+	
 	'How do we know your team will stick together?',
 	'What else have you created together?',
 	'Are you open to changing your idea? ',
 	'What systems have you hacked?',
 	'Tell us about a tough problem you solved?',
 	'In what ways are you resourceful?',
-	'Will you reincorporate as a US company?',
-	'Will your team stick at this?',
+
+	
 	'Tell us something surprising you have done?',
 	'What&#39;s the funniest thing that has happened to you?',
 	'What&#39;s the worst thing that has happened?',
@@ -74,11 +74,11 @@ var q = [
 	'What is your burn rate?',
 	'How long can you go before funding?',
 	'What is the next step with the product evolution?',
-	'Have you raised funding?',
+	
 	'Who would be your next hire?',
 	
 	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?'
+	
 ];
 
 // Tips
@@ -86,8 +86,8 @@ var tips = [
 	'Try to have quick and concise answers.',
 	'Try to answer in 2 to 3 sentences.',
 	'Answer like you would in a conversation, this is not a presentation.',
-	'When talking to PG and the other YC partners, be substantive, and get straight to the point.',
+	'When talking to a potential investor, be substantive, and get straight to the point.',
 	'DO NOT BEAT AROUND THE BUSH. Do not hem and haw. "Uhm"s and "uh"s don&#39;t lend an aura of intelligence.',
 	'Use precise and concise language. You aren&#39;t pitching a VC that will ask you what your "secret sauce" is.',
-	'He talks quickly, and so do the other YC partners. Try to match their tempo (as you should when talking to anyone).'
+	'She talks quickly, and so do the other VC partners. Try to match their tempo (as you should when talking to anyone).'
 ];
