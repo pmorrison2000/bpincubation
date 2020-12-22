@@ -9,11 +9,16 @@ var q = [
 	'How will you make money?',
 	'How much money could you make per year?',
 	'How many users do you have?',
+	 
+	 
 	'How are you meeting customers?',
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
+	
 	'So what are you working on?',
+	 
+	 
 	'How does your product work in more detail?',
 	'How is your product different?',
 	'What are you going to do next?',
@@ -26,8 +31,10 @@ var q = [
 	'How will customers and/or users find out about you?',
 	'What resistance will customers have to trying you and how will you overcome it?',
 	'What are the key things about your field that outsiders don&#39;t understand?',
+	 
 	'Who is going to be your first paying customer?',
 	'If your startup succeeds, what additional areas might you be able to expand into?',
+	 
 	'What have you learned so far from working on your product?',
 	'Six months from now, what&#39;s going to be your biggest problem?',
 	'Where do new users come from?',
@@ -43,17 +50,33 @@ var q = [
 	'What domain expertise do you have?',
 	'Who are your competitors?',
 	'Who might become competitors?',
+	 
 	'What competition do you fear most?',
 	'What is your distribution strategy?',
-	'What will you do if we don&#39;t fund you?'
+	
+	
+	
+	
+	'What will you do if we don&#39;t fund you?',
+	
+	
+	 
+	'Are you open to changing your idea? ',
+	 
 	'Tell us about a tough problem you solved?',
 	'In what ways are you resourceful?',
+
+	
+	 
+	 
 	'What&#39;s the worst thing that has happened?',
 	'What&#39;s the biggest mistake you have made?',
 	'What is your burn rate?',
 	'How long can you go before funding?',
 	'What is the next step with the product evolution?',
+	
 	'Who would be your next hire?',
+	
 	'How do you know people want this?',
 	'What will prevent others from becoming fast followers?'
 ];
@@ -64,4 +87,5 @@ var tips = [
 	'Try to answer in 2 to 3 sentences.',
 	'Answer like you would in a conversation, this is not a presentation.',
 	'When talking to a potential investor, be substantive, and get straight to the point.',
+
 ];
