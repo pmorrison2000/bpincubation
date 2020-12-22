@@ -10,14 +10,14 @@ var q = [
  	'How do keep my data secure?', 
  	'Does your product integrate with other systems that customers use?', 
  	'Does the product require user training?', 
-  'How is pricing structured? Are there fees for support or upgrades?', 
-  'Who is your main competitor and why shouldn&#39;t we go with their offer?', 
-  'What have you learned from POCs?', 
-  'What challenges/obstacles do you face?',
+ 	'How is pricing structured? Are there fees for support or upgrades?', 
+  	'Who is your main competitor and why shouldn&#39;t we go with their offer?', 
+  	'What have you learned from POCs?', 
+  	'What challenges/obstacles do you face?',
 	'Are there any challenges for customers to switch to your product?',
-  'What are the response times for customer issues or bug fixes?', 
-  'What new features will you build next?', 
-  'How soon can we sign up?', 
+  	'What are the response times for customer issues or bug fixes?', 
+  	'What new features will you build next?', 
+  	'How soon can we sign up?', 
 ];
 
 // Tips
@@ -25,6 +25,4 @@ var tips = [
 	'Try to have quick and concise answers.',
 	'Try to answer in 2 to 3 sentences.',
 	'Answer like you would in a conversation, this is not a presentation.',
-	'When talking to a potential customer, be substantive, and get straight to the point.',
-	'DO NOT BEAT AROUND THE BUSH. Do not hem and haw. "Uhm"s and "uh"s don&#39;t lend an aura of intelligence.',
 ];
